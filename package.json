@@ -1,0 +1,12 @@
+{
+  "name": "node-red-on-render",
+  "version": "1.0.0",
+  "description": "Node-RED déployé sur Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node-red -v -u ."
+  },
+  "dependencies": {
+    "node-red": "^3.1.0"
+  }
+}
