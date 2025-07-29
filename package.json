@@ -7,7 +7,7 @@
     "start": "node-red -v -u ."
   },
   "dependencies": {
-    "node-red": "^3.1.0"
-    "node-red-dashboard": "*"
+    "node-red": "^3.1.0",
+    "node-red-dashboard": "^3.5.0"
   }
 }
